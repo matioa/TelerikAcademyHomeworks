@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\After10Years\bin\Debug\After10Years.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\After10Years\bin\Debug\After10Years.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\After10Years\bin\Debug\After10Years.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\After10Years\obj\Debug\After10Years.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\After10Years\obj\Debug\After10Years.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Intro-Programming-Homework\After10Years\obj\Debug\After10Years.pdb

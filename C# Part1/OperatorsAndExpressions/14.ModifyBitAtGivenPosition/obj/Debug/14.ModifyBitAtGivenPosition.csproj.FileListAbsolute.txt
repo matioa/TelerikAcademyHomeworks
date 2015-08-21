@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\14.ModifyBitAtGivenPosition\bin\Debug\14.ModifyBitAtGivenPosition.exe.config

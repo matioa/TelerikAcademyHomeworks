@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\07.EncodeDecode\bin\Debug\07.EncodeDecode.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\07.EncodeDecode\bin\Debug\07.EncodeDecode.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\07.EncodeDecode\obj\Debug\07.EncodeDecode.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\07.EncodeDecode\obj\Debug\07.EncodeDecode.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\07.EncodeDecode\obj\Debug\07.EncodeDecode.pdb

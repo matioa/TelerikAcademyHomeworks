@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\01.AllocateArray\bin\Debug\01.AllocateArray.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\01.AllocateArray\obj\Debug\01.AllocateArray.pdb

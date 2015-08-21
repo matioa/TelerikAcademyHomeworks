@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ConditionalStatements\03.PlayingCards\bin\Debug\03.PlayingCards.exe.config

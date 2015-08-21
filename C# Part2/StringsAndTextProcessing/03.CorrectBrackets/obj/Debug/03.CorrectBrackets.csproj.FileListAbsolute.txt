@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\03.CorrectBrackets\bin\Debug\03.CorrectBrackets.exe.config

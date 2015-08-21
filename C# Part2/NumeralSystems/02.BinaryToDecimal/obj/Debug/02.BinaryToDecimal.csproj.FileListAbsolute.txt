@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\02.BinaryToDecimal\bin\Debug\02.BinaryToDecimal.exe.config

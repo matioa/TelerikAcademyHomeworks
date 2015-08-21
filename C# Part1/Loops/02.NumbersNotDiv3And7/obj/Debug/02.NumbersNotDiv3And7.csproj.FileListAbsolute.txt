@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Loops\02.NumbersNotDiv3And7\bin\Debug\02.NumbersNotDiv3And7.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Loops\02.NumbersNotDiv3And7\bin\Debug\02.NumbersNotDiv3And7.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Loops\02.NumbersNotDiv3And7\bin\Debug\02.NumbersNotDiv3And7.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Loops\02.NumbersNotDiv3And7\obj\Debug\02.NumbersNotDiv3And7.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Loops\02.NumbersNotDiv3And7\obj\Debug\02.NumbersNotDiv3And7.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Loops\02.NumbersNotDiv3And7\obj\Debug\02.NumbersNotDiv3And7.pdb

@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\03.PrintCompanyInformation\bin\Debug\03.PrintCompanyInformation.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\03.PrintCompanyInformation\bin\Debug\03.PrintCompanyInformation.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\03.PrintCompanyInformation\bin\Debug\03.PrintCompanyInformation.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\03.PrintCompanyInformation\obj\Debug\03.PrintCompanyInformation.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ConsoleInputOutput\03.PrintCompanyInformation\obj\Debug\03.PrintCompanyInformation.pdb

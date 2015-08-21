@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\15.NumbersCalculations\bin\Debug\15.NumbersCalculations.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\15.NumbersCalculations\obj\Debug\15.NumbersCalculations.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\15.NumbersCalculations\bin\Debug\15.NumbersCalculations.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\15.NumbersCalculations\bin\Debug\15.NumbersCalculations.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\15.NumbersCalculations\obj\Debug\15.NumbersCalculations.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\15.NumbersCalculations\obj\Debug\15.NumbersCalculations.pdb

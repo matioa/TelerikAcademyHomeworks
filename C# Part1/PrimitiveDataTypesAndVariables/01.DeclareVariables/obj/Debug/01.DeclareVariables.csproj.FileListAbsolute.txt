@@ -1,0 +1,1 @@
+C:\Users\Martin\documents\visual studio 2013\Projects\PrimitiveDataTypesAndVariables\01.DeclareVariables\bin\Debug\01.DeclareVariables.exe.config

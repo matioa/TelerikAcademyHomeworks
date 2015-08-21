@@ -1,0 +1,2 @@
+C:\Users\Martin\documents\visual studio 2013\Projects\OperatorsAndExpressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part1\OperatorsAndExpressions\08.PrimeNumberCheck\bin\Debug\08.PrimeNumberCheck.exe.config

@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\07.SelectionSort\bin\Debug\07.SelectionSort.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\07.SelectionSort\obj\Debug\07.SelectionSort.pdb

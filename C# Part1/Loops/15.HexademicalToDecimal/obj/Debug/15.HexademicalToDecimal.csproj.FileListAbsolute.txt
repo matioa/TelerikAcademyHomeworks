@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Loops\15.HexademicalToDecimal\bin\Debug\15.HexademicalToDecimal.exe.config

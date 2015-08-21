@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\11.BinarySearch\bin\Debug\11.BinarySearch.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\11.BinarySearch\obj\Debug\11.BinarySearch.pdb

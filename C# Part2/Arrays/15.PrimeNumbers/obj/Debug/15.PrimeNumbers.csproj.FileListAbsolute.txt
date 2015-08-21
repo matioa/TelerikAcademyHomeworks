@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\15.PrimeNumbers\bin\Debug\15.PrimeNumbers.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\15.PrimeNumbers\obj\Debug\15.PrimeNumbers.pdb

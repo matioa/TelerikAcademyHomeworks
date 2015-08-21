@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\17.SubsetKwithSumS\bin\Debug\17.SubsetKwithSumS.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\17.SubsetKwithSumS\bin\Debug\17.SubsetKwithSumS.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\17.SubsetKwithSumS\bin\Debug\17.SubsetKwithSumS.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\17.SubsetKwithSumS\obj\Debug\17.SubsetKwithSumS.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\17.SubsetKwithSumS\obj\Debug\17.SubsetKwithSumS.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\17.SubsetKwithSumS\obj\Debug\17.SubsetKwithSumS.pdb

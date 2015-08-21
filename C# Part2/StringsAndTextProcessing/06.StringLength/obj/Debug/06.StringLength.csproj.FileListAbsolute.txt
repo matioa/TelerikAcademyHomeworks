@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\06.StringLength\bin\Debug\06.StringLength.exe.config

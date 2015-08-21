@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\11.AddingPolynomials\bin\Debug\11.AddingPolynomials.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Methods\11.AddingPolynomials\obj\Debug\11.AddingPolynomials.pdb

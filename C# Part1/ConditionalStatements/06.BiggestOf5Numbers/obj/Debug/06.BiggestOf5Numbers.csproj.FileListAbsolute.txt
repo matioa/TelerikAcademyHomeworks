@@ -1,0 +1,2 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ConditionalStatements\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part1\ConditionalStatements\06.BiggestOf5Numbers\bin\Debug\06.BiggestOf5Numbers.exe.config

@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\12.IndexOfLetters\bin\Debug\12.IndexOfLetters.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\12.IndexOfLetters\obj\Debug\12.IndexOfLetters.pdb

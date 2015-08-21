@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\06.BinToHex\bin\Debug\06.BinToHex.exe.config

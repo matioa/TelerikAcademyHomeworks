@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\03.SequenceNmatrix\bin\Debug\03.SequenceNmatrix.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\03.SequenceNmatrix\bin\Debug\03.SequenceNmatrix.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\03.SequenceNmatrix\bin\Debug\03.SequenceNmatrix.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\03.SequenceNmatrix\obj\Debug\03.SequenceNmatrix.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\03.SequenceNmatrix\obj\Debug\03.SequenceNmatrix.pdb

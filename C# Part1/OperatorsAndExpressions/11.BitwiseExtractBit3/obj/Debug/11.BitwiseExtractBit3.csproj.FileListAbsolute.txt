@@ -1,0 +1,2 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part1\OperatorsAndExpressions\11.BitwiseExtractBit3\bin\Debug\11.BitwiseExtractBit3.exe.config

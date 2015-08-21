@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\13.ReverseSentence\bin\Debug\13.ReverseSentence.exe.config

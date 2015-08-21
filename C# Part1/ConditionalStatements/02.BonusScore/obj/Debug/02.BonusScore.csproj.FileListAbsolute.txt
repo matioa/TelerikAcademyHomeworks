@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\ConditionalStatements\02.BonusScore\bin\Debug\02.BonusScore.exe.config

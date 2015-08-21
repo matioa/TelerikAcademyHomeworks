@@ -1,0 +1,1 @@
+Write a program that replaces all occurrences of the sub-string finish with the sub-string finish in a text file.

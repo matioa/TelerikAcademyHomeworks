@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\05.HexToBinary\bin\Debug\05.HexToBinary.exe.config

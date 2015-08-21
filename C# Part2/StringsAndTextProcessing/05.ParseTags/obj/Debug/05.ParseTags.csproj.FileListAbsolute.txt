@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\05.ParseTags\bin\Debug\05.ParseTags.exe.config

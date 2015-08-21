@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\09.FloatingPointNumber\bin\Debug\09.FloatingPointNumber.exe.config

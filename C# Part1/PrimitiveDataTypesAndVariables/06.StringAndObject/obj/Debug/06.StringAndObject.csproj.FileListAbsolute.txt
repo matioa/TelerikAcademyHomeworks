@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\PrimitiveDataTypesAndVariables\06.StringAndObject\bin\Debug\06.StringAndObject.exe.config

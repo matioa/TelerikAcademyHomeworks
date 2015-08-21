@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\StringsAndTextProcessing\23.SeriesOfLetters\bin\Debug\23.SeriesOfLetters.exe.config

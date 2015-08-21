@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\04.HexToDecimal\bin\Debug\04.HexToDecimal.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\04.HexToDecimal\obj\Debug\04.HexToDecimal.pdb

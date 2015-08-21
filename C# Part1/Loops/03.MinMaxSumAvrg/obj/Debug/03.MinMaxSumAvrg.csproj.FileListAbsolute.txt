@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Loops\03.MinMaxSumAvrg\bin\Debug\03.MinMaxSumAvrg.exe.config

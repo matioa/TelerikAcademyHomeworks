@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\10.FindSumInArray\bin\Debug\10.FindSumInArray.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\10.FindSumInArray\obj\Debug\10.FindSumInArray.pdb

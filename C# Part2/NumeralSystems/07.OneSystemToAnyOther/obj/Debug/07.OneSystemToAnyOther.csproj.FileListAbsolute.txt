@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\07.OneSystemToAnyOther\bin\Debug\07.OneSystemToAnyOther.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\NumeralSystems\07.OneSystemToAnyOther\obj\Debug\07.OneSystemToAnyOther.pdb

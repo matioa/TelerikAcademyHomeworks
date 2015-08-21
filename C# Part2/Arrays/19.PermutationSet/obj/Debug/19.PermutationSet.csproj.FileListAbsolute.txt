@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\19.PermutationSet\bin\Debug\19.PermutationSet.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\19.PermutationSet\bin\Debug\19.PermutationSet.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\19.PermutationSet\bin\Debug\19.PermutationSet.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\19.PermutationSet\obj\Debug\19.PermutationSet.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\19.PermutationSet\obj\Debug\19.PermutationSet.pdb

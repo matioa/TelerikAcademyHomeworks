@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\TextFiles\12.RemoveWords\bin\Debug\12.RemoveWords.exe.config

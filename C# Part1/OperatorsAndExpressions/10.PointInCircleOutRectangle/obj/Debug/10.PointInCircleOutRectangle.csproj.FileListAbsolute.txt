@@ -1,0 +1,2 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\OperatorsAndExpressions\10.PointInCircleOutRectangle\bin\Debug\10.PointInCircleOutRectangle.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part1\OperatorsAndExpressions\10.PointInCircleOutRectangle\bin\Debug\10.PointInCircleOutRectangle.exe.config

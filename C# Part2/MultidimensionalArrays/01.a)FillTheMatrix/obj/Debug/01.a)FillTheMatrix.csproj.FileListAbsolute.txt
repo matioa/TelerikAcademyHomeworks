@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\01.a)FillTheMatrix\bin\Debug\01.a)FillTheMatrix.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\01.a)FillTheMatrix\bin\Debug\01.a)FillTheMatrix.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\01.a)FillTheMatrix\bin\Debug\01.a)FillTheMatrix.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\01.a)FillTheMatrix\obj\Debug\01.a)FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\01.a)FillTheMatrix\obj\Debug\01.a)FillTheMatrix.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\MultidimensionalArrays\01.a)FillTheMatrix\obj\Debug\01.a)FillTheMatrix.pdb

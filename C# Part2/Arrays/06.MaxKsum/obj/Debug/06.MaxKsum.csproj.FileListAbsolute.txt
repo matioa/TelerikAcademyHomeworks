@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\06.MaxKsum\bin\Debug\06.MaxKsum.exe.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\06.MaxKsum\bin\Debug\06.MaxKsum.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\06.MaxKsum\bin\Debug\06.MaxKsum.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\06.MaxKsum\obj\Debug\06.MaxKsum.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\C# Part2\Arrays\06.MaxKsum\obj\Debug\06.MaxKsum.pdb
