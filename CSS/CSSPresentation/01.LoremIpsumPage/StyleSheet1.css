@@ -1,0 +1,14 @@
+﻿p {
+    font-family: Consolas, serif;
+    color: #0094ff;
+}
+
+p::first-line {
+    font-weight:bold;
+    line-height:40px;
+}
+
+p:first-letter {
+    font-size:2.5em;
+    font-family:'Edwardian Script ITC';
+}

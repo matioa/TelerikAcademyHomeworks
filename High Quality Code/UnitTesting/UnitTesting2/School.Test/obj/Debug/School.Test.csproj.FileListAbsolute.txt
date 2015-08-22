@@ -1,0 +1,7 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\High Quality Code\UnitTesting\UnitTesting2\School.Test\obj\Debug\School.Test.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\High Quality Code\UnitTesting\UnitTesting2\School.Test\bin\Debug\School.Test.dll
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\High Quality Code\UnitTesting\UnitTesting2\School.Test\bin\Debug\School.Test.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\High Quality Code\UnitTesting\UnitTesting2\School.Test\bin\Debug\School.exe
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\High Quality Code\UnitTesting\UnitTesting2\School.Test\bin\Debug\School.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\High Quality Code\UnitTesting\UnitTesting2\School.Test\obj\Debug\School.Test.dll
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\High Quality Code\UnitTesting\UnitTesting2\School.Test\obj\Debug\School.Test.pdb

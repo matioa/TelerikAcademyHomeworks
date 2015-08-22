@@ -1,0 +1,62 @@
+//Problem 1. Make person
+console.log('\nProblem 1. Make person');
+
+
+
+function Person(firstName, lastName, age, gender) {
+	this.firstName = firstName;
+	this.lastName= lastName;
+	this.age=age;
+	this.gender = gender;
+}
+
+var people = [new Person('Zak','Oberin',4,false),
+				new Person('Mich','Buchannon',37,false),
+				new Person('Marilyn','Monroe', 29,true),
+				new Person('Woody', 'Allen', 54,false),
+				new Person('Brad','Pitt',22,false),
+				new Person('Demi','Moore',26,true),
+				new Person('Meg','Ryan',40,true),
+				new Person('Charlie','Sheen',39,false),
+				new Person('Kurt','Cobain',34,false),
+				new Person('Elvis','Presley',43,false)];
+
+console.log(people);
+
+// Problem 2. People of age
+console.log('\nProblem 2. People of age');
+var allAreAdults = people.every(function(human) {
+	return human.age>=18;
+});
+console.log(allAreAdults);
+
+
+
+// Problem 3. Underage people
+console.log('\nProblem 3. Underage people');
+
+var underagePeople = people.filter(function(human){
+	return human.age<18;
+});
+console.log(underagePeople);
+
+people.forEach(function(human){
+ if(human.age<18) {
+ 	console.log(human);
+ }
+});
+
+
+
+//Problem 4. Average age of females
+console.log('\nProblem 4. Average age of females');
+
+var avrgAgeWomen = people.filter(function(human) {
+	return human.gender;
+});
+
+var ageSmt = avrgAgeWomen.reduce(function(result,obj){
+	return result+obj.age;
+},0);
+
+console.log(ageSmt);

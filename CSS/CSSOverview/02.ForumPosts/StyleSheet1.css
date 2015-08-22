@@ -1,0 +1,29 @@
+﻿body {
+    font-size: 12px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+table {
+    width:500px;
+    line-height:25px;
+    text-indent:5px;
+    border-collapse:collapse;
+    color: #555;
+}
+th {
+    font-weight:lighter;
+    text-align:left;
+    background-color:#55b806;
+    color:white;
+}
+td:first-child {
+    border:0;
+}
+td , th{
+    border-left:1px solid #aaa;
+}
+tr:nth-child(2n) {
+    background-color:#ececd8;
+}
+tr:last-child, th{
+    border-bottom:1px solid #aaa;
+}

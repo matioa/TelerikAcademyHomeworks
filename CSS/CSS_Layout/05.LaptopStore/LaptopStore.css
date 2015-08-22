@@ -1,0 +1,75 @@
+﻿#container {
+    width:750px;
+    border:2px solid black;
+    border-radius:10px;
+}
+
+header {
+    margin:5px 15px;
+    border-bottom:1px solid black;
+    text-align:center;
+}
+
+    header li {
+        list-style:none;
+        display:inline;
+        font-size:25px;
+        font-weight:bold;
+    }
+
+        header li a {
+            color:#00aef0;
+        }
+
+        header li a:hover {
+            text-decoration:none;
+        }
+
+#product-display {
+    display:inline-block;
+    float:left;
+    margin:10px;
+    width:500px;
+    border:1px solid black;
+}
+
+#product-display fieldset {
+    float:left;
+    width:200px;
+    margin-left:10px;
+    margin-bottom:10px;
+}
+
+    #product-display fieldset img{
+    float:left;
+    margin-right:10px;
+}
+
+    #product-display fieldset p{
+    display:inline-block;
+    padding:0;
+    margin:10px 10px 10px 0;
+    }
+    
+#sliders {
+    display:inline-block;
+    float:left;
+    margin:10px;
+    margin-top:50px;
+    width:200px;
+}
+
+    #sliders input {
+        width:150px;
+        display: block;
+        margin:5px 0 45px 10px;
+    }
+
+    #sliders label {
+        display: block;
+        margin:10px 0 5px 10px;
+    }
+
+    #clear {
+    clear:both;
+}

@@ -1,0 +1,5 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\HTML\HTML-FormsAndFrames\03.NotebookStore\bin\03.NotebookStore.dll.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\HTML\HTML-FormsAndFrames\03.NotebookStore\bin\03.NotebookStore.dll
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\HTML\HTML-FormsAndFrames\03.NotebookStore\bin\03.NotebookStore.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\HTML\HTML-FormsAndFrames\03.NotebookStore\obj\Debug\03.NotebookStore.dll
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\HTML\HTML-FormsAndFrames\03.NotebookStore\obj\Debug\03.NotebookStore.pdb

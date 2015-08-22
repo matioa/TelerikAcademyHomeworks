@@ -1,0 +1,24 @@
+﻿ul {
+    list-style:none;
+    margin:0;
+}
+
+    ul:hover {
+        font-weight:bold;
+    }
+
+    ul>li {
+        display:none;
+    }
+
+    ul:hover li {
+        display:block;
+        margin-left: 5px;
+        font-weight:normal;
+        font-size:0.9em;
+        color:#555;
+    }
+
+    ul:hover li:last-of-type {
+       margin-bottom: 5px;
+    }

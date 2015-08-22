@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\High Quality Code\Tuning and Optimization\TuningAndOptimization\02.CompareSimpleMaths\bin\Debug\02.CompareSimpleMaths.exe.config

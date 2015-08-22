@@ -1,0 +1,6 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Javascript\JS UI\TestingJSUI\Test\bin\Test.dll.config
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Javascript\JS UI\TestingJSUI\Test\bin\Test.dll
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Javascript\JS UI\TestingJSUI\Test\bin\Test.pdb
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Javascript\JS UI\TestingJSUI\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Javascript\JS UI\TestingJSUI\Test\obj\Debug\Test.dll
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\Javascript\JS UI\TestingJSUI\Test\obj\Debug\Test.pdb

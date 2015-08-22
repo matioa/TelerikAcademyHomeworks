@@ -1,0 +1,139 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Problem 4 - Windows Calculator</title>
+    <link rel="stylesheet" type="text/css" href="04WindowsCalculator.css" />
+</head>
+<body>
+    <div id="border-frame">
+        Calculator
+        <div id="main-menu">
+            <ul>
+                <li>View</li>
+                <li>Edit</li>
+                <li>Help</li>
+            </ul>
+        </div>
+        <div id="main-frame">
+            <div id="calculator-screen">8854455</div>
+            <div id="binary-screen">
+                <table>
+                    <tr>
+                        <th>0000</th>
+                        <th>0000</th>
+                        <th>0000</th>
+                        <th>0000</th>
+                        <th>0000</th>
+                        <th>0000</th>
+                        <th>0000</th>
+                        <th>0000</th>
+                    </tr>
+                    <tr>
+                        <td colspan="4">63</td>
+                        <td colspan="3">47</td>
+                        <td>32</td>
+                    </tr>
+                    <tr>
+                        <th>0000</th>
+                        <th>0000</th>
+                        <th>1000</th>
+                        <th>01111</th>
+                        <th>0001</th>
+                        <th>1011</th>
+                        <th>1011</th>
+                        <th>0111</th>
+                    </tr>
+                    <tr>
+                        <td colspan="4">31</td>
+                        <td colspan="3">15</td>
+                        <td>0</td>
+                    </tr>
+                </table>
+                </div>
+                <div id="calculator-input">
+                    <table>
+                        <tr>
+                            <td id="NumericSystemRadio" rowspan="3">
+                                <ul>
+                                    <li><input type="radio" name="numeric-system" value="1" />Hex</li>
+                                    <li><input type="radio" name="numeric-system" value="2" checked="checked"/>Dec</li>
+                                    <li><input type="radio" name="numeric-system" value="3" />Oct</li>
+                                    <li><input type="radio" name="numeric-system" value="4" />Bin</li>
+                                </ul>
+                            </td>
+                            <td class="button-not-active"></td>
+                            <td class="button-calculation">Mod</td>
+                            <td class="button-letter">A</td>
+                            <td class="button-function">MC</td>
+                            <td class="button-function">MR</td>
+                            <td class="button-function">MS</td>
+                            <td class="button-function">M+</td>
+                            <td class="button-function">M-</td>
+                        </tr>
+                        <tr>
+                            <td class="button-calculation">(</td>
+                            <td class="button-calculation">)</td>
+                            <td class="button-letter">B</td>
+                            <td class="button-calculation"></td>
+                            <td class="button-calculation">CE</td>
+                            <td class="button-calculation">C</td>
+                            <td class="button-calculation">+-</td>
+                            <td class="button-not-active"></td>
+                        </tr>
+                        <tr>
+                            <td class="button-calculation">RoL</td>
+                            <td class="button-calculation">RoR</td>
+                            <td class="button-letter">C</td>
+                            <td class="button-numbers">7</td>
+                            <td class="button-numbers">8</td>
+                            <td class="button-numbers">9</td>
+                            <td class="button-calculation">/</td>
+                            <td class="button-not-active">%</td>
+                        </tr>
+                        <tr>
+                            <td id="other-choises-radio" rowspan="3">
+                                <ul>
+                                    <li><input type="radio" name="something" value="1" checked="checked"/>Qword</li>
+                                    <li><input type="radio" name="something" value="2" />Dword</li>
+                                    <li><input type="radio" name="something" value="3" />Word</li>
+                                    <li><input type="radio" name="something" value="4" />Byte</li>
+                                </ul>
+                            </td>
+                            <td class="button-calculation">Or</td>
+                            <td class="button-calculation">Xor</td>
+                            <td class="button-letter">D</td>
+                            <td class="button-numbers">4</td>
+                            <td class="button-numbers">5</td>
+                            <td class="button-numbers">6</td>
+                            <td class="button-calculation">*</td>
+                            <td class="button-not-active">1/x</td>
+                        </tr>
+                        <tr>
+                            <td class="button-calculation">Lsh</td>
+                            <td class="button-calculation">Rsh</td>
+                            <td class="button-letter">E</td>
+                            <td class="button-numbers">1</td>
+                            <td class="button-numbers">2</td>
+                            <td class="button-numbers">3</td>
+                            <td class="button-calculation">-</td>
+                            <td rowspan="2" class="button-not-active">=</td>
+                        </tr>
+                        <tr>
+                            <td class="button-calculation">Not</td>
+                            <td class="button-calculation">And</td>
+                            <td class="button-letter">F</td>
+                            <td colspan="2" class="button-numbers">0</td>
+                            <td class="button-function">.</td>
+                            <td class="button-calculation">+</td>
+                        </tr>
+                    </table>
+                </div>
+            </div>
+        </div>
+    <footer>
+        <p>
+        Looking good in IE and Chrome.
+        </p>
+    </footer>
+</body>
+</html>

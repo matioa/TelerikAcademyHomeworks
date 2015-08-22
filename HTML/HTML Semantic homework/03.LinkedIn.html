@@ -1,0 +1,126 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>LinkedIn</title>
+    <style>
+        .listDisc {
+            list-style-type: disc;
+        }
+
+        .listCirle {
+            list-style-type: circle;
+        }
+
+        #firstSectionHeader {
+            font-size: xx-large;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>
+            <a href="#">LinkedIn</a>
+        </h1>
+        <nav>
+            <ul class="listDisc">
+                <li>
+                    <a href="#">Home</a>
+                </li>
+                <li>
+                    <a href="#">What is LinkedIn?</a>
+                </li>
+                <li>
+                    <a href="#">Join Today</a>
+                </li>
+                <li>
+                    <form name="SignInForm" method="post" action="#" autocomplete="off">
+                        <fieldset>
+                            <legend>Sign In</legend>
+                            <ul class="listCirle">
+                                <li>
+                                    <label for="SignInEmail">Email:</label>
+                                    <input type="email" id="SignInEmail" name="Email" required="required" />
+                                </li>
+                                <li>
+                                    <label for="SignInPassword">Password</label>
+                                    <input type="password" id="SignInPassword" name="Password" required="required" />
+                                </li>
+                                <li>
+                                    <input type="submit" value="Sign In" />
+                                </li>
+                            </ul>
+                        </fieldset>
+                    </form>
+                </li>
+            </ul>
+        </nav>
+        <hr />
+    </header>
+    <main>
+        <section>
+            <header>
+                <h2 id="firstSectionHeader">
+                    Over 175 million professionals use LinkedIn to exchange information, ideas and opportunities
+                </h2>
+            </header>
+            <ul class="listDisc">
+                <li>Stay informed about your contacts and industry</li>
+                <li>Find the people &amp; knowledge you need to achieve your goals</li>
+                <li>Control your professional identity online</li>
+            </ul>
+        </section>
+        <section>
+            <h2>
+                Join LinkedIn Today
+            </h2>
+            <form name="SignUpForm" method="post" action="#" autocomplete="off">
+                <fieldset>
+                    <legend>Sign Up</legend>
+                    <ul class="listDisc">
+                        <li>
+                            <label for="FirstName">First Name:</label><br />
+                            <input type="text" id="FirstName" name="FirstName" required="required" />
+                        </li>
+                        <li>
+                            <label for="LastName">Last Name:</label><br />
+                            <input type="text" id="LastName" name="LastName" required="required" />
+                        </li>
+                        <li>
+                            <label for="SignUpEmail">Email:</label><br />
+                            <input type="email" id="SignUpEmail" name="Email" pattern="[a-zA-Z0-9_.]{3,20}@[a-zA-Z0-9_.]{3,10}.[a-z]{2,4}" required="required" />
+                        </li>
+                        <li>
+                            <label for="SignUpPassword">Password:</label><br />
+                            <input type="password" id="SignUpPassword" name="Password" required="required" />
+                            <p>6 or more characters</p>
+                        </li>
+                    </ul>
+                    <input type="submit" value="Join Now" /> <a href="#">*</a>
+                    <p>
+                        Already on LinkedIn? <a href="#">Sign In.</a>
+                    </p>
+                </fieldset>
+            </form>
+        </section>
+    </main>
+    <footer>
+        <h3>
+            Search for someone by name:
+        </h3>
+        <form name="SearchForm" method="post" action="#" autocomplete="off">
+            <ul class="listDisc">
+                <li>
+                    <label for="SearchFirstName">First Name</label>
+                    <input type="text" id="SearchFirstName" name="FirstName" placeholder="First Name" />
+                </li>
+                <li>
+                    <label for="SearchLastName">Last Name</label>
+                    <input type="text" id="SearchLastName" name="LastName" placeholder="Last Name" />
+                </li>
+            </ul>
+            <input type="submit" value="Go" />
+        </form>
+    </footer>
+</body>
+</html>

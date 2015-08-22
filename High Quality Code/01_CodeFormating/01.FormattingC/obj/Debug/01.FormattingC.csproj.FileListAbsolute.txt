@@ -1,0 +1,1 @@
+C:\Users\Martin\Documents\Visual Studio 2013\Projects\High Quality Code\01_CodeFormating\01.FormattingC\bin\Debug\01.FormattingC.exe.config

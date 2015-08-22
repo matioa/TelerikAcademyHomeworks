@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Registratino form</title>
+    <style>
+        td {
+            border: 0.5px solid;
+        }
+
+        table {
+            border: 0.5px solid;
+            border-spacing: 0;
+        }
+
+        td.leftOnTable {
+            text-align: center;
+            font-weight: bold;
+            width: 50px;
+        }
+
+        td.rightOnTable {
+            width: 250px;
+        }
+        td.bottomRow {
+            text-align:center;
+            background-color:darkturquoise
+        }
+    </style>
+</head>
+<body>
+    <form>
+        <table>
+            <tr>
+                <td class="leftOnTable">Last Name</td>
+                <td class="rightOnTable"><input type="text" name="LastName" value=" " /></td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">First Name</td>
+                <td class="rightOnTable"><input type="text" name="FirstName" value=" " /></td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">Address</td>
+                <td>
+                    <textarea cols="25" rows="4"></textarea> 
+                </td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">City</td>
+                <td>
+                    <input type="text" name="City" value=" " />
+                    <label for="state">State</label>
+                    <input type="text" id="state" value="" size="4" />
+                </td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">Zip/Postal Code</td>
+                <td><input type="text" name="Zip" value="" size="6" /></td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">Country</td>
+                <td>
+                    <select>
+                        <option value="1">Bulgaria</option>
+                        <option value="2">Greece</option>
+                        <option value="3">Italy</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">Phone(country code, area code, number)</td>
+                <td>
+                    (+
+                    <input type="text" value="" size="4" />
+                    )
+                    <input type="text" value="" size="4" />
+                    <input type="text" value="" size="12" />
+                </td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">E-mail</td>
+                <td><input type="text" name="Email" value=" " /></td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">Birth date</td>
+                <td><input type="date" name="name" placeholder="дд.мм.гггг г." /></td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">Gender</td>
+                <td>
+                    <select>
+                        <option value="1">Male</option>
+                        <option value="2">Female</option>
+                    </select>
+                </td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">Starting date</td>  
+                <td>
+                    <input type="radio" name="StartingDate" value="1"/>Spring 2015
+                    <input type="radio" name="StartingDate" value="2" />Summer 2015
+                </td>
+            </tr>
+            <tr>
+                <td class="leftOnTable">Comments/Questions</td>
+                <td>
+                    <textarea cols="25" rows="5"></textarea>
+                </td>
+            </tr>
+            <tr>
+                <td class="bottomRow" colspan="2">
+                    <input type="submit" value="Submit" />
+                    <input type="reset" value="Clean This Form" />
+                </td>
+            </tr>
+        </table>
+    </form>
+</body>
+</html>

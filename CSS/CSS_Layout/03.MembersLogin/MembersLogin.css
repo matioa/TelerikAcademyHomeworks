@@ -1,0 +1,68 @@
+﻿#wrapper {
+    width:720px;
+    background-color:#3b3b3b;
+    border-radius:5px;
+    padding:10px 0;
+}
+
+header {
+    padding: 10px;
+    color:white;
+    font-size:19px;
+    font-family:'Bookman Old Style',serif;
+
+    -webkit-box-shadow: inset 0px -94px 33px -97px rgba(0,0,0,0.59);
+    -moz-box-shadow: inset 0px -94px 33px -97px rgba(0,0,0,0.59);
+    box-shadow: inset 0px -94px 33px -97px rgba(0,0,0,0.59);
+}
+
+    header:before {
+        content:url(/img/monitor.png);
+        margin-right:10px;
+        vertical-align:middle;
+        display:inline-block;
+    }
+
+    header>form {
+        display:inline-block;
+        vertical-align:baseline;
+    }
+
+        header>form>input {
+            margin:0 10px;
+            font-size:14px;
+        }
+
+        header>form>input[type=button] {
+            background-image:url(/img/go-button.png);
+            width:61px;
+            height:31px;
+            border:none;
+            background-color:transparent;
+            color:white;
+        }
+
+section {
+    margin:0;
+    padding:10px;
+}
+
+section h1 {
+    color:#ffd800;
+    font-size:28px;
+    font-family:'Bookman Old Style',serif;
+    font-weight:normal;
+}
+
+section p {
+    color:#aaa;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size:14px;
+    margin-top:0;
+    margin-bottom:0;
+    padding-right:40px;
+}
+section p strong {
+    color: white;
+    font-weight:normal;
+}
