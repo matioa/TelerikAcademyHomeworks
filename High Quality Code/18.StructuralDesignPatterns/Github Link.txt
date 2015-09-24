@@ -1,1 +1,1 @@
-https://github.com/matioa/TelerikAcademyHomeworks/tree/master/High%20Quality%20Code/17.DesignPatterns
+https://github.com/matioa/TelerikAcademyHomeworks/tree/master/High%20Quality%20Code/18.StructuralDesignPatterns
