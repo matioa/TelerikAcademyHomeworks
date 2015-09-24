@@ -1,0 +1,1 @@
+https://github.com/matioa/TelerikAcademyHomeworks/tree/master/High%20Quality%20Code/19.BehavioralDesignPatterns
