@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<?xml-stylesheet type="text/xsl" href="students.xslt" ?>
+		<students>
+			xmlns:students="urn:students"
+
+			<student>
+				<name>Ivan Ivanov</name>
+				<sex>Male</sex>
+				<birthDate>1990-03-12</birthDate>
+				<phone>898888337</phone>
+				<email>sample@gmail.com</email>
+				<course>Sample course</course>
+				<specialty>Tight</specialty>
+				<facultyNumber>123123</facultyNumber>
+					<exams>
+						<exam>
+							<name>C#</name>
+							<tutor>Evlogi</tutor>
+							<score>6</score>
+						</exam>
+						<exam>
+							<name>JavaScript</name>
+								<tutor>Ivailo</tutor>
+								<score>5</score>
+						</exam>
+					</exams>
+			</student>
+
+			<student>
+				<name>Georgi Todorov</name>
+				<sex>Male</sex>
+				<birthDate>1990-05-12</birthDate>
+				<phone>898998337</phone>
+				<email>georgi@gmail.com</email>
+				<course>Software Technologies</course>
+				<specialty>Software special course</specialty>
+				<facultyNumber>6566366</facultyNumber>
+				<exams>
+					<exam>
+						<name>C#</name>
+						<tutor>Evlogi</tutor>
+						<score>4</score>
+					</exam>
+					<exam>
+						<name>JavaScript</name>
+							<tutor>Ivailo</tutor>
+							<score>6</score>
+					</exam>
+				</exams>
+			</student>
+			
+		</students>
